@@ -3,7 +3,7 @@ import './Cards.css';
 import CardItem from './CardItem';
 import ionic from '../../assets/images/ionic.png'
 import lier from '../../assets/images/logo-lier.jpg'
-import stock from '../../assets/images/stock-app.jpg'
+import eazyInk from '../../assets/images/tattoo.jpg'
 
 function Cards() {
   return (
@@ -25,10 +25,10 @@ function Cards() {
               path='/projects/lier'
             />
             <CardItem
-              src={stock}
-              text='myInvest - in progress'
-              label='React, Node.JS, aws'
-              path='/'
+              src={eazyInk}
+              text='Eazyink'
+              label='Startup'
+              path='/projects/Eazyink'
             />
           </ul>
         </div>

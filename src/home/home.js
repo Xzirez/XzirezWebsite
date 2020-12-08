@@ -2,6 +2,7 @@ import { Component } from "react";
 import './home.css';
 import imageUrl from '../assets/images/headshot.png';
 import {Button} from '../components/button/button';
+import Github from '../assets/images/github.svg';
 class Home extends Component {
     
     
@@ -18,6 +19,7 @@ class Home extends Component {
                         <h3 className="small-padding">Software Engineer</h3>
                         <a href="/about"><button  className="btn btn-secondary btn-lg space-buttons">About Me</button></a>
                         <a href="/projects"><button   className="btn btn-secondary btn-lg space-buttons">Projects</button></a>
+                        
                     </div>
                 </div>
             </div>

@@ -8,6 +8,7 @@ import Projects from './projects/projects';
 import {Helmet} from 'react-helmet';
 import Bachelor from './bachelor/bachelor.js'
 import Lier from './lier/lier.js';
+import EazyInk from './eazyInk/eazyInk';
 
 function App() {
   return (
@@ -23,6 +24,8 @@ function App() {
           <Route path="/projects" exact component={Projects} />
           <Route path="/projects/bachelor" exact component={Bachelor} />
           <Route path="/projects/lier" exact component={Lier} />
+          <Route path="/projects/EazyInk" exact component={EazyInk} />
+
 
         </Switch>
     </div>
