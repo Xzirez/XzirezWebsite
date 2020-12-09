@@ -26,7 +26,7 @@ function Cards() {
             />
             <CardItem
               src={eazyInk}
-              text='Eazyink'
+              text='Linework'
               label='Startup'
               path='/projects/Eazyink'
             />

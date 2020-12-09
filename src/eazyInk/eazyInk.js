@@ -13,8 +13,8 @@ class About extends Component {
                 <div className="container d-flex justify-content-left">
                     <div className=" small-box" >
 
-                        <h1 className=" d-flex justify-content-left"><b>Startup - EazyInk - CTO</b></h1>
-                        <p>I have a startup project where i function as a CTO. The project has been running for 2 years and is currently being outsourced. We are creating an ERP platform for tattoo artists where artists can do book keeping, schedule appointment, transactions and funding of tattoos. The project has currently developed an MVP and is starting to gather funding for the second time. For more information on this shoot me an email at vetle.stubberud@gmail.com. 
+                        <h1 className=" d-flex justify-content-left"><b>Startup - Linework - CTO</b></h1>
+                        <p>I have a startup project called Linework where i function as a CTO. The project has been running for 2 years and is currently being outsourced. We are creating an ERP platform for tattoo artists where artists can do book keeping, schedule appointment, transactions and funding of tattoos. The project has currently developed an MVP and is starting to gather funding for the second time. For more information on this shoot me an email at vetle.stubberud@gmail.com. 
                            </p>
 
                             <h4>Links</h4>
