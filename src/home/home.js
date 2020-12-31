@@ -1,6 +1,6 @@
 import { Component } from "react";
 import './home.css';
-import imageUrl from '../assets/images/headshot.png';
+import imageUrl from '../assets/images/crop2.jpg';
 import {Button} from '../components/button/button';
 import Github from '../assets/images/github.svg';
 class Home extends Component {
