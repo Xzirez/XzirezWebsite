@@ -4,6 +4,7 @@ import CardItem from './CardItem';
 import ionic from '../../assets/images/ionic.png'
 import lier from '../../assets/images/logo-lier.jpg'
 import eazyInk from '../../assets/images/tattoo.jpg'
+import stripe from '../../assets/images/stripe.png';
 
 function Cards() {
   return (
@@ -25,10 +26,10 @@ function Cards() {
               path='/projects/lier'
             />
             <CardItem
-              src={eazyInk}
-              text='Linework'
-              label='Startup'
-              path='/projects/Eazyink'
+              src={stripe}
+              text='Small Ecommerce Application'
+              label='Next.js, React'
+              path='/projects/StripeApp'
             />
           </ul>
         </div>

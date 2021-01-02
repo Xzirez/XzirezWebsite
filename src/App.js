@@ -7,7 +7,7 @@ import Projects from './projects/projects';
 import {Helmet} from 'react-helmet';
 import Bachelor from './bachelor/bachelor.js'
 import Lier from './lier/lier.js';
-import EazyInk from './eazyInk/eazyInk';
+import StripeApp from './stripeApp/stripeApp.js';
 
 function App() {
   return (
@@ -23,7 +23,7 @@ function App() {
           <Route path="/projects" exact component={Projects} />
           <Route path="/projects/bachelor" exact component={Bachelor} />
           <Route path="/projects/lier" exact component={Lier} />
-          <Route path="/projects/EazyInk" exact component={EazyInk} />
+          <Route path="/projects/StripeApp" exact component={StripeApp} />
 
 
         </Switch>
