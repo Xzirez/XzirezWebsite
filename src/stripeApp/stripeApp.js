@@ -16,8 +16,8 @@ class About extends Component {
                         <h1 className=" d-flex justify-content-left "><b>Small Ecommerce Application</b></h1>
                         <p>This application is a small hobby project that i am expanding on. The application is meant to be a sneakerstore that will be used once finished. The store is already run by the instagram account Sneakernerdsnl. Check out a preview by clicking below. </p>
                         <div className="small-padding">
-                        <a href="https://sneaker-store.vercel.app/"><button className="btn btn-secondary btn-lg space-buttons">Preview</button></a> 
-                        <a href="https://github.com/Xzirez/SneakerStore"><button className="btn btn-secondary btn-lg space-buttons">Code</button></a>
+                        <a href="https://sneaker-store.vercel.app/"><button className="btn btn-secondary btn-lg-stripe space-buttons">Preview</button></a> 
+                        <a href="https://github.com/Xzirez/SneakerStore"><button className="btn btn-secondary btn-lg-stripe space-buttons">Code</button></a>
                             
                             </div>
                             <img src=""/>
