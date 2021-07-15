@@ -11,21 +11,20 @@ class About extends Component {
 
                         <h1 className=" d-flex justify-content-left"><b>About</b></h1>
                         <h3 ><b>Coding</b></h3>
-                        <p >👋 i am Vetle Stubberud. I am a Norwegian developer who specializes in React/Angular, Node.JS, Serverless and AWS. I recently graduated with a bachelors in informatics.
+                        <p >👋 i am Vetle Stubberud. I am a Norwegian developer who specializes in Mobile Development and Automation.
                            </p>
                            <p>
-                           My main focus has been Frontend development
-                            and the Javascript/Typescript stacks. I started making apps quiet early in my study with a focus on cross platform frameworks suchs as React Native and Ionic. I had some experience with Java and Spring, but once i discovered serverless Node.JS became my go to.
+                           My main focus has been Frontend development. I started making apps quiet early in my study with a focus on cross platform frameworks suchs as React Native and Ionic. I had some experience with Java and Spring. My current projects mostly revolve around Flutter and AWS. I currently work for <a href= "https://www.felltech.no">Felltech</a>as a Lead Applications Developer.
                                </p> 
-                           <p>I have 2 cloud certifications. AWS Solution Architect Assosciate and Azure Fundamentals. I don't have much work experience, so the certifications serves as a way for me to show i am interested and willing to learn. I had no prior experience with Cloud. </p>
+                           <p>I have 2 cloud certifications. AWS Solution Architect Assosciate and Azure Fundamentals. Currently i do little backend development, but i have a good grasp of AWS and DevOps pratices. </p>
                            <h5><b>Skills</b></h5>
                   <div className="container small-padding">
                    <ul>
                        <li>
-                           <p><b>Front-end:</b> React, Angular, Ionic</p>
+                           <p><b>Front-end:</b> Flutter, React,  Angular, Ionic</p>
                        </li>
                        <li>
-                       <p><b>Back-end:</b> Node.JS, Java/Spring Boot</p> 
+                       <p><b>Back-end:</b> Node.JS</p> 
                        </li>
                        <li>
                        <p><b>Cloud:</b> AWS, Azure</p>
@@ -49,7 +48,7 @@ class About extends Component {
                    
                  
                    <h2><b>Personal Interests</b></h2>
-                   <p>Besides my passion for coding Im invested in several hobbies. Gaming or Esports is one. I am also into investing, philosophy, language, psychology, poker and politics. I have read most of the classic litterature ranging Adam Smith to Marx to Nietzsche to Kirkegaard. I used to day trade and i still actively invest. I wanted to study psychology and i am still quiet invested in the declining science of psychology.  </p>
+                   <p>Besides my passion for coding Im invested in several hobbies. Gaming or Esports is one. I am also into investing, philosophy, language, psychology, poker and politics. I have read most of the classic litterature ranging Adam Smith to Marx to Nietzsche to Kirkegaard. I wanted to study psychology and i am still quiet invested in the declining science of psychology.  </p>
                     </div>
                 </div>
             </div>
