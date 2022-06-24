@@ -1,19 +1,18 @@
-.card{
-   margin: 1rem;
-   width:18rem;
+.card {
+  margin: 1rem;
+  width: 18rem;
 }
 
-.mySection{
-    padding: 2rem;
-    display:grid;
-    grid-template-columns: auto 1fr;
-    align-items: center;
-    grid-gap: 20px;
-    text-decoration: none;
-    transition: transform .35s,-webkit-transform .35s;
-    
+.mySection {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  grid-gap: 20px;
+  text-decoration: none;
+  transition: transform 0.35s, -webkit-transform 0.35s;
 }
 
-.small-padding{
-    padding:1rem;
+.small-padding {
+  padding: 1rem;
 }
