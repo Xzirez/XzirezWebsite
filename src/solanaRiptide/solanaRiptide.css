@@ -18,6 +18,10 @@
   padding: 1rem;
 }
 
+.big-padding {
+  padding-bottom: 1rem;
+}
+
 .block {
   border-left: 2px solid;
   margin: 40px;
@@ -29,4 +33,11 @@
   width: 12rem;
   height: auto;
   margin: 1.5rem;
+}
+
+.space-buttons {
+  margin: 0.5rem;
+}
+.btn-lg-stripe {
+  width: 7rem;
 }

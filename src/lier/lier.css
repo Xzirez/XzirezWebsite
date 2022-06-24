@@ -1,33 +1,32 @@
-
-.small-box{
-    max-width: 800px;
-    align-items: left;
-    padding: 2rem;
+.small-box {
+  max-width: 800px;
+  align-items: left;
+  padding: 2rem;
 }
 
-.mySection{
-    padding: 2rem;
-    display:grid;
-    grid-template-columns: auto 1fr;
-    align-items: center;
-    grid-gap: 20px;
-    text-decoration: none;
-    transition: transform .35s,-webkit-transform .35s;
+.mySection {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  grid-gap: 20px;
+  text-decoration: none;
+  transition: transform 0.35s, -webkit-transform 0.35s;
 }
 
-.small-padding{
-    padding:1rem;
+.small-padding {
+  padding: 1rem;
 }
 
-.block{
-border-left: 2px solid;
-margin: 40px;
-padding: 10px 20px;
-    color:#fff;
+.block {
+  border-left: 2px solid;
+  margin: 40px;
+  padding: 10px 20px;
+  color: #fff;
 }
 
-.widthImage{
-    width:12rem;
-    height:auto;
-    margin: 1.5rem; 
+.widthImage {
+  width: 12rem;
+  height: auto;
+  margin: 1.5rem;
 }

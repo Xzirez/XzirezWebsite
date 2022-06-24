@@ -1,35 +1,34 @@
-import React from 'react';
-import './Cards.css';
-import CardItem from './CardItem';
-import ionic from '../../assets/images/ionic.png'
-import lier from '../../assets/images/logo-lier.jpg'
-import eazyInk from '../../assets/images/tattoo.jpg'
-import stripe from '../../assets/images/stripe.png';
+import React from "react";
+import "./Cards.css";
+import CardItem from "./CardItem";
+import ionic from "../../assets/images/ionic.png";
+import lier from "../../assets/images/logo-lier.jpg";
+import riptide from "../../assets/images/riptide.png";
 
 function Cards() {
   return (
-    <div className='cards'>
+    <div className="cards">
       <h1>Projects</h1>
-      <div className='cards__container'>
-        <div className='cards__wrapper'>
-          <ul className='cards__items'>
+      <div className="cards__container">
+        <div className="cards__wrapper">
+          <ul className="cards__items">
             <CardItem
               src={ionic}
-              text='Bachelor Project: Mobile Application For Millum AS'
-              label='Ionic Angular'
-              path='/projects/bachelor'
+              text="Bachelor Project: Mobile Application For Millum AS"
+              label="Ionic Angular"
+              path="/projects/bachelor"
+            />
+            <CardItem
+              src={riptide}
+              text="Solana Riptide Hackathon - Vyper"
+              label="Next.js"
+              path="/projects/solanaRipTide"
             />
             <CardItem
               src={lier}
-              text='Mobile Application For Lier Municipale'
-              label='React, Node.JS, AWS'
-              path='/projects/lier'
-            />
-            <CardItem
-              src={stripe}
-              text='Small Ecommerce Application'
-              label='Next.js, React'
-              path='/projects/StripeApp'
+              text="Mobile Application For Lier Municipale"
+              label="React, Node.JS, AWS"
+              path="/projects/lier"
             />
           </ul>
         </div>
